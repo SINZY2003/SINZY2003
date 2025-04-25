@@ -15,9 +15,9 @@
  
  🌱 I’m currently learning <strong>PHP, React, AWS</strong>
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Node.js, React, JavaScript... or anything [here](https://github.com/SINZY2003/SINZY2003/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact: The first computer bug was an actual moth found in a computer in 1947 🐛💻
 
  </div>
  
