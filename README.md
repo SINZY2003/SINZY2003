@@ -42,7 +42,7 @@
 
 <br/>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SINZY2003/SINZY2003/output/github-snake.svg" alt="GitHub Snake Animation" />
+  ![Snake animation](https://raw.githubusercontent.com/SINZY2003/SINZY2003/output/github-snake.svg)
 </div>
 
 <div align="center">
