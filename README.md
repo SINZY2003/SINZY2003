@@ -41,9 +41,7 @@
 </div>
 
 <br/>
-<div align="center">
-  ![Snake animation](https://raw.githubusercontent.com/SINZY2003/SINZY2003/output/github-snake.svg)
-</div>
+![Snake](https://raw.githubusercontent.com/SINZY2003/SINZY2003/output/github-snake.svg?random=123)
 
 <div align="center">
 <a href='#' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
