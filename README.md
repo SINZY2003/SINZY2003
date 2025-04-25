@@ -1,4 +1,4 @@
-<img align="right" src="https://avatars.githubusercontent.com/SINZY2003" width="150" />
+<img align="right" src="https://avatars.githubusercontent.com/SINZY2003" width="15" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sinzole+Bradley!;" />
