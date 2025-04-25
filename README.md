@@ -41,7 +41,7 @@
 </div>
 
 <br/>
-![GitHub Snake](https://github.com/SINZY-2003/SINZY2003/blob/output/github-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/SINZY-2003/SINZY2003/output/github-snake.svg)
 
 <div align="center">
 <a href='#' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
